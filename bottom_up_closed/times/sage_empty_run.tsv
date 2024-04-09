@@ -1,0 +1,14 @@
+[2024-01-15T10:31:16Z INFO  sage] generated 26896315 fragments, 1267768 peptides in 1536ms
+[2024-01-15T10:31:16Z INFO  sage] processing files 0 .. 1 
+[2024-01-15T10:31:16Z INFO  sage] - file IO:        1 ms
+[2024-01-15T10:31:16Z INFO  sage] - search:         0 ms (0 spectra/s)
+[2024-01-15T10:31:16Z WARN  sage] linear model fitting failed, falling back to heuristic discriminant score
+[2024-01-15T10:31:16Z INFO  sage] discovered 0 target peptide-spectrum matches at 1% FDR
+[2024-01-15T10:31:16Z INFO  sage] discovered 0 target peptides at 1% FDR
+[2024-01-15T10:31:16Z INFO  sage] discovered 0 target proteins at 1% FDR
+[2024-01-15T10:31:16Z INFO  sage] finished in 1s
+[2024-01-15T10:31:16Z INFO  sage] cite: "Sage: An Open-Source Tool for Fast Proteomics Searching and Quantification at Scale" https://doi.org/10.1021/acs.jproteome.3c00486
+
+real	0m3.831s
+user	0m4.594s
+sys	0m0.594s

@@ -1,0 +1,3 @@
+Spectrum ID, Protein, #peaks, #multi-peaks, Charge, Delta mass, # matched peaks 
+scan=1, sp|P00921|CAH2_BOVIN, 575, 218, 1, -95.9238, 3
+scan=1, tr|F1N0H3|F1N0H3_BOVIN, 575, 218, 1, -67.8809, 3

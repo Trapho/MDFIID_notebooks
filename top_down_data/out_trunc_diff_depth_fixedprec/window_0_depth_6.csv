@@ -1,0 +1,18 @@
+Spectrum ID, Protein, #peaks, #multi-peaks, Charge, Delta mass, # matched peaks 
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_19_45|truncated, 122, 863, 1, -399.208, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_20_45|truncated, 122, 863, 1, -285.165, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_21_45|truncated, 122, 863, 1, -157.106, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_22_45|truncated, 122, 863, 1, -1.00537, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI, 122, 863, 2, 125.081, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_1_45|truncated, 122, 863, 2, 125.081, 2
+controllerType=0 controllerNumber=1 scan=1094, sp|P68191|SRA_ECOLI_2_45|truncated, 122, 863, 2, 256.122, 2
+controllerType=0 controllerNumber=1 scan=2800, sp|P06149|DLD_ECOLI_547_571|truncated, 96, 88, 1, 5.12231, 2
+controllerType=0 controllerNumber=1 scan=2804, sp|P0AGK8|ISCR_ECOLI_131_162|truncated, 123, 151, 1, -1.00586, 3
+controllerType=0 controllerNumber=1 scan=5079, sp|P60624|RL24_ECOLI, 74, 5, 1, -132.055, 3
+controllerType=0 controllerNumber=1 scan=5079, sp|P60624|RL24_ECOLI_2_104|truncated, 74, 5, 1, -1.01367, 3
+controllerType=0 controllerNumber=1 scan=5079, sp|P60624|RL24_ECOLI_3_104|truncated, 74, 5, 1, 70.0234, 3
+controllerType=0 controllerNumber=1 scan=5785, sp|P0AG51|RL30_ECOLI_2_59|truncated, 94, 92, 1, -1.00732, 2
+controllerType=0 controllerNumber=1 scan=6045, sp|P0A7R9|RS11_ECOLI_10_129|truncated, 132, 56, 1, -0.0078125, 3
+controllerType=0 controllerNumber=1 scan=6370, sp|P0A7R9|RS11_ECOLI_57_125|truncated, 90, 6, 1, -0.0405273, 3
+controllerType=0 controllerNumber=1 scan=7291, sp|P0ACF0|DBHA_ECOLI_1_90|truncated, 106, 7, 1, -1.00879, 2
+controllerType=0 controllerNumber=1 scan=7291, sp|P0ACF0|DBHA_ECOLI, 106, 7, 1, -1.00879, 2

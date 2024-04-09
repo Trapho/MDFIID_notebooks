@@ -1,0 +1,7 @@
+Spectrum ID, Protein, #peaks, #multi-peaks, Charge, Delta mass, # matched peaks 
+scan=1, sp|P00921|CAH2_BOVIN, 575, 1959, 1, -95.9238, 9
+scan=1, tr|F1N0H3|F1N0H3_BOVIN, 575, 1959, 1, -67.8809, 9
+scan=1, sp|Q7M3E1|CTRC_BOVIN, 575, 1959, 1, -236.645, 5
+scan=1, tr|B0JYP7|B0JYP7_BOVIN, 575, 1959, 1, -236.645, 5
+scan=1, tr|F1N2F0|F1N2F0_BOVIN, 575, 1959, 1, -215.633, 2
+scan=1, tr|E1BDB5|E1BDB5_BOVIN, 575, 1959, 1, -165.871, 2

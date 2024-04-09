@@ -1,0 +1,4 @@
+Spectrum ID, Protein, #peaks, #multi-peaks, Charge, Delta mass, # matched peaks 
+scan=1, tr|A0A3Q1MBH7|A0A3Q1MBH7_BOVIN, 575, 575, 1, 0.404297, 2
+scan=1, tr|A0A3Q1MP66|A0A3Q1MP66_BOVIN, 575, 575, 1, 0.6875, 2
+scan=1, tr|A0A3Q1MEY9|A0A3Q1MEY9_BOVIN, 575, 575, 1, 1.66211, 2
